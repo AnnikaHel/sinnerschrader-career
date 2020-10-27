@@ -4,7 +4,8 @@
   "description": "testing out how to parse and include md into a template",
   "scripts": {
     "build": "ts-node src/index.ts build",
-    "start": "ts-node src/index.ts watch"
+    "start": "ts-node src/index.ts watch",
+    "lab": "ts-node src/lab.ts"
   },
   "author": "martin.sonnenholzer",
   "license": "MIT",
