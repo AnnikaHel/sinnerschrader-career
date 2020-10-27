@@ -5,7 +5,7 @@
   "scripts": {
     "build": "ts-node src/index.ts build",
     "start": "ts-node src/index.ts watch",
-    "lab": "ts-node src/lab.ts"
+    "lab": "ts-node lab/lab.ts"
   },
   "author": "martin.sonnenholzer",
   "license": "MIT",

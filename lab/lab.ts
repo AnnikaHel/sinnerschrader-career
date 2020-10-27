@@ -1,6 +1,6 @@
 import chalk from 'chalk';
 import matter from 'gray-matter';
-import {readFile} from './utils';
+import {readFile} from '../src/utils';
 import * as Handlebars from 'handlebars';
 
 async function main() {
